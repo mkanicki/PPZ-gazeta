@@ -1,0 +1,1418 @@
+111008 20:49:47 [Note] Plugin 'FEDERATED' is disabled.
+111008 20:49:47 InnoDB: The InnoDB memory heap is disabled
+111008 20:49:47 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+111008 20:49:47 InnoDB: Compressed tables use zlib 1.2.3
+111008 20:49:47 InnoDB: Initializing buffer pool, size = 16.0M
+111008 20:49:47 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file \temp\xampplite\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+111008 20:49:47  InnoDB: Setting file \temp\xampplite\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+111008 20:49:48  InnoDB: Log file \temp\xampplite\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file \temp\xampplite\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+111008 20:49:48  InnoDB: Log file \temp\xampplite\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file \temp\xampplite\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+111008 20:49:49  InnoDB: Waiting for the background threads to start
+111008 20:49:50 InnoDB: 1.1.8 started; log sequence number 0
+111008 20:49:50 [Note] Event Scheduler: Loaded 0 events
+111008 20:49:50 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111008 20:50:38 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+111008 20:50:38 [Note] Event Scheduler: Purging the queue. 0 events
+111008 20:50:38  InnoDB: Starting shutdown...
+111008 20:50:39  InnoDB: Shutdown completed; log sequence number 1595675
+111008 20:50:39 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+111008 20:55:56 [Note] Plugin 'FEDERATED' is disabled.
+111008 20:55:56 InnoDB: The InnoDB memory heap is disabled
+111008 20:55:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+111008 20:55:56 InnoDB: Compressed tables use zlib 1.2.3
+111008 20:55:56 InnoDB: Initializing buffer pool, size = 16.0M
+111008 20:55:56 InnoDB: Completed initialization of buffer pool
+111008 20:55:56 InnoDB: highest supported file format is Barracuda.
+111008 20:55:56  InnoDB: Waiting for the background threads to start
+111008 20:55:57 InnoDB: 1.1.8 started; log sequence number 1595675
+111008 20:55:57 [Note] Event Scheduler: Loaded 0 events
+111008 20:55:57 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111008 20:57:05 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+111008 20:57:05 [Note] Event Scheduler: Purging the queue. 0 events
+111008 20:57:05  InnoDB: Starting shutdown...
+111008 20:57:05  InnoDB: Shutdown completed; log sequence number 1595675
+111008 20:57:05 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+111008 20:57:16 [Note] Plugin 'FEDERATED' is disabled.
+111008 20:57:16 InnoDB: The InnoDB memory heap is disabled
+111008 20:57:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+111008 20:57:16 InnoDB: Compressed tables use zlib 1.2.3
+111008 20:57:16 InnoDB: Initializing buffer pool, size = 16.0M
+111008 20:57:16 InnoDB: Completed initialization of buffer pool
+111008 20:57:16 InnoDB: highest supported file format is Barracuda.
+111008 20:57:16  InnoDB: Waiting for the background threads to start
+111008 20:57:17 InnoDB: 1.1.8 started; log sequence number 1595675
+111008 20:57:17 [Note] Event Scheduler: Loaded 0 events
+111008 20:57:17 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111008 23:46:37 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+111008 23:46:37 [Note] Event Scheduler: Purging the queue. 0 events
+111008 23:46:37  InnoDB: Starting shutdown...
+111008 23:46:38  InnoDB: Shutdown completed; log sequence number 1595675
+111008 23:46:38 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130316 22:33:30 [Note] Plugin 'FEDERATED' is disabled.
+130316 22:33:30 InnoDB: The InnoDB memory heap is disabled
+130316 22:33:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130316 22:33:30 InnoDB: Compressed tables use zlib 1.2.3
+130316 22:33:30 InnoDB: Initializing buffer pool, size = 16.0M
+130316 22:33:30 InnoDB: Completed initialization of buffer pool
+130316 22:33:30 InnoDB: highest supported file format is Barracuda.
+130316 22:33:30  InnoDB: Waiting for the background threads to start
+130316 22:33:31 InnoDB: 1.1.8 started; log sequence number 1595675
+130316 22:33:32 [Note] Event Scheduler: Loaded 0 events
+130316 22:33:32 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130316 23:33:23 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130316 23:33:23 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130316 23:33:23 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130316 23:33:29 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130316 23:33:29 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130316 23:33:29 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317  0:10:21 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130317  0:10:21 [Note] Event Scheduler: Purging the queue. 0 events
+130317  0:10:21  InnoDB: Starting shutdown...
+130317  0:10:21  InnoDB: Shutdown completed; log sequence number 1595675
+130317  0:10:21 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130317 10:21:35 [Note] Plugin 'FEDERATED' is disabled.
+130317 10:21:35 InnoDB: The InnoDB memory heap is disabled
+130317 10:21:35 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130317 10:21:35 InnoDB: Compressed tables use zlib 1.2.3
+130317 10:21:35 InnoDB: Initializing buffer pool, size = 16.0M
+130317 10:21:35 InnoDB: Completed initialization of buffer pool
+130317 10:21:36 InnoDB: highest supported file format is Barracuda.
+130317 10:21:37  InnoDB: Waiting for the background threads to start
+130317 10:21:38 InnoDB: 1.1.8 started; log sequence number 1595675
+130317 10:21:38 [Note] Event Scheduler: Loaded 0 events
+130317 10:21:38 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130317 10:21:49 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:21:49 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:21:49 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:21:49 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:29:59 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:29:59 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:30:00 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:30:00 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:32:36 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:32:55 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:32:55 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:32:55 [ERROR] Cannot find or open table ib1_projekt_db/nieruchomosci from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:32:55 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130317 10:35:30 [Note] Plugin 'FEDERATED' is disabled.
+130317 10:35:30 InnoDB: The InnoDB memory heap is disabled
+130317 10:35:30 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130317 10:35:30 InnoDB: Compressed tables use zlib 1.2.3
+130317 10:35:30 InnoDB: Initializing buffer pool, size = 16.0M
+130317 10:35:30 InnoDB: Completed initialization of buffer pool
+130317 10:35:30  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+130317 10:35:40  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+130317 10:36:10 [Note] Plugin 'FEDERATED' is disabled.
+130317 10:36:10 InnoDB: The InnoDB memory heap is disabled
+130317 10:36:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130317 10:36:10 InnoDB: Compressed tables use zlib 1.2.3
+130317 10:36:10 InnoDB: Initializing buffer pool, size = 16.0M
+130317 10:36:10 InnoDB: Completed initialization of buffer pool
+130317 10:36:10  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+130317 10:36:16 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130317 10:36:16 [Note] Event Scheduler: Purging the queue. 0 events
+130317 10:36:16  InnoDB: Starting shutdown...
+130317 10:36:16  InnoDB: Shutdown completed; log sequence number 1595675
+130317 10:36:16 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130319 19:46:46 [Note] Plugin 'FEDERATED' is disabled.
+130319 19:46:46 InnoDB: The InnoDB memory heap is disabled
+130319 19:46:46 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130319 19:46:46 InnoDB: Compressed tables use zlib 1.2.3
+130319 19:46:46 InnoDB: Initializing buffer pool, size = 16.0M
+130319 19:46:46 InnoDB: Completed initialization of buffer pool
+130319 19:46:46 InnoDB: highest supported file format is Barracuda.
+130319 19:46:47  InnoDB: Waiting for the background threads to start
+130319 19:46:48 InnoDB: 1.1.8 started; log sequence number 1595675
+130319 19:46:50 [Note] Event Scheduler: Loaded 0 events
+130319 19:46:50 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130319 19:47:08 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130319 19:47:08 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130319 20:32:59 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130319 20:32:59 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130319 21:03:12 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130319 21:03:12 [Note] Event Scheduler: Purging the queue. 0 events
+130319 21:03:12  InnoDB: Starting shutdown...
+130319 21:03:13  InnoDB: Shutdown completed; log sequence number 1595675
+130319 21:03:13 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130329 17:19:38 [Note] Plugin 'FEDERATED' is disabled.
+130329 17:19:38 InnoDB: The InnoDB memory heap is disabled
+130329 17:19:38 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130329 17:19:38 InnoDB: Compressed tables use zlib 1.2.3
+130329 17:19:38 InnoDB: Initializing buffer pool, size = 16.0M
+130329 17:19:38 InnoDB: Completed initialization of buffer pool
+130329 17:19:38 InnoDB: highest supported file format is Barracuda.
+130329 17:19:39  InnoDB: Waiting for the background threads to start
+130329 17:19:40 InnoDB: 1.1.8 started; log sequence number 1595675
+130329 17:19:41 [Note] Event Scheduler: Loaded 0 events
+130329 17:19:41 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130329 17:35:22 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 17:35:23 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 17:56:54 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 17:56:54 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:04 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:04 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:42 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:26:42 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:27:05 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:27:05 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:27:12 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:27:20 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:27:20 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:28:00 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:28:00 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:28:39 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:28:49 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:28:59 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:30:32 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:30:49 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:31:23 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:31:23 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 18:31:25 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:30:21 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:34:25 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:34:40 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:25 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:25 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:34 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:34 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:38 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:35:39 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:37:21 [Warning] Invalid (old?) table or database name '#sql-d4_135'
+130329 19:37:27 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:37:27 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 19:37:38 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 21:59:34 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:01:03 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:01:09 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:00 [Warning] Invalid (old?) table or database name '#sql-d4_186'
+130329 22:03:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:26 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:36 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:48 [Warning] Invalid (old?) table or database name '#sql-d4_1a6'
+130329 22:03:49 [Warning] Invalid (old?) table or database name '#sql-d4_1a6'
+130329 22:03:49 [Warning] Invalid (old?) table or database name '#sql-d4_1a6'
+130329 22:03:58 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 22:03:58 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 23:38:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 23:38:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130329 23:59:56 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130329 23:59:56 [Note] Event Scheduler: Purging the queue. 0 events
+130329 23:59:56  InnoDB: Starting shutdown...
+130329 23:59:57  InnoDB: Shutdown completed; log sequence number 1768515
+130329 23:59:58 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130330  9:33:20 [Note] Plugin 'FEDERATED' is disabled.
+130330  9:33:20 InnoDB: The InnoDB memory heap is disabled
+130330  9:33:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130330  9:33:20 InnoDB: Compressed tables use zlib 1.2.3
+130330  9:33:20 InnoDB: Initializing buffer pool, size = 16.0M
+130330  9:33:20 InnoDB: Completed initialization of buffer pool
+130330  9:33:20 InnoDB: highest supported file format is Barracuda.
+130330  9:33:22  InnoDB: Waiting for the background threads to start
+130330  9:33:23 InnoDB: 1.1.8 started; log sequence number 1768515
+130330  9:33:23 [Note] Event Scheduler: Loaded 0 events
+130330  9:33:23 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130330  9:41:05 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330  9:41:05 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330  9:44:38 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330  9:44:38 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 13:08:20 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 16:55:45 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:05:45 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:05:54 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:05 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:06 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:16 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:21 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:22 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:07:52 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:08:07 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:08:08 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:08:35 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:08:40 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:08:40 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:09:44 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:10:18 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:10:18 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:11:18 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:11:18 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:14:09 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:16:44 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:16:54 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:17:44 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 17:17:44 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130330 23:42:20 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130330 23:42:20 [Note] Event Scheduler: Purging the queue. 0 events
+130330 23:42:20  InnoDB: Starting shutdown...
+130330 23:42:20  InnoDB: Shutdown completed; log sequence number 2071837
+130330 23:42:20 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130331 22:57:49 [Note] Plugin 'FEDERATED' is disabled.
+130331 22:57:49 InnoDB: The InnoDB memory heap is disabled
+130331 22:57:49 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130331 22:57:49 InnoDB: Compressed tables use zlib 1.2.3
+130331 22:57:49 InnoDB: Initializing buffer pool, size = 16.0M
+130331 22:57:49 InnoDB: Completed initialization of buffer pool
+130331 22:57:50 InnoDB: highest supported file format is Barracuda.
+130331 22:57:51  InnoDB: Waiting for the background threads to start
+130331 22:57:52 InnoDB: 1.1.8 started; log sequence number 2071837
+130331 22:57:52 [Note] Event Scheduler: Loaded 0 events
+130331 22:57:52 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130331 23:00:22 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130331 23:00:22 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130331 23:05:43 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130331 23:05:43 [Note] Event Scheduler: Purging the queue. 0 events
+130331 23:05:43  InnoDB: Starting shutdown...
+130331 23:05:44  InnoDB: Shutdown completed; log sequence number 2080270
+130331 23:05:44 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130402 16:01:16 [Note] Plugin 'FEDERATED' is disabled.
+130402 16:01:16 InnoDB: The InnoDB memory heap is disabled
+130402 16:01:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130402 16:01:16 InnoDB: Compressed tables use zlib 1.2.3
+130402 16:01:16 InnoDB: Initializing buffer pool, size = 16.0M
+130402 16:01:16 InnoDB: Completed initialization of buffer pool
+130402 16:01:16 InnoDB: highest supported file format is Barracuda.
+130402 16:01:18  InnoDB: Waiting for the background threads to start
+130402 16:01:19 InnoDB: 1.1.8 started; log sequence number 2080270
+130402 16:01:20 [Note] Event Scheduler: Loaded 0 events
+130402 16:01:20 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130402 23:37:10 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130402 23:37:10 [Note] Event Scheduler: Purging the queue. 0 events
+130402 23:37:10  InnoDB: Starting shutdown...
+130402 23:37:11  InnoDB: Shutdown completed; log sequence number 2080270
+130402 23:37:11 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130404 11:28:19 [Note] Plugin 'FEDERATED' is disabled.
+130404 11:28:19 InnoDB: The InnoDB memory heap is disabled
+130404 11:28:19 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130404 11:28:19 InnoDB: Compressed tables use zlib 1.2.3
+130404 11:28:20 InnoDB: Initializing buffer pool, size = 16.0M
+130404 11:28:20 InnoDB: Completed initialization of buffer pool
+130404 11:28:21 InnoDB: highest supported file format is Barracuda.
+130404 11:28:25  InnoDB: Waiting for the background threads to start
+130404 11:28:26 InnoDB: 1.1.8 started; log sequence number 2080270
+130404 11:28:27 [Note] Event Scheduler: Loaded 0 events
+130404 11:28:27 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130404 11:29:12 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130404 11:29:12 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130404 11:50:09 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130404 11:50:10 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130404 11:50:12 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130404 11:57:54 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130404 11:57:54 [Note] Event Scheduler: Purging the queue. 0 events
+130404 11:57:54  InnoDB: Starting shutdown...
+130404 11:57:56  InnoDB: Shutdown completed; log sequence number 2080280
+130404 11:57:56 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130404 13:51:56 [Note] Plugin 'FEDERATED' is disabled.
+130404 13:51:56 InnoDB: The InnoDB memory heap is disabled
+130404 13:51:56 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130404 13:51:56 InnoDB: Compressed tables use zlib 1.2.3
+130404 13:51:56 InnoDB: Initializing buffer pool, size = 16.0M
+130404 13:51:56 InnoDB: Completed initialization of buffer pool
+130404 13:51:56 InnoDB: highest supported file format is Barracuda.
+130404 13:51:58  InnoDB: Waiting for the background threads to start
+130404 13:51:59 InnoDB: 1.1.8 started; log sequence number 2080280
+130404 13:52:00 [Note] Event Scheduler: Loaded 0 events
+130404 13:52:00 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130404 14:35:44 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130404 14:35:44 [Note] Event Scheduler: Purging the queue. 0 events
+130404 14:35:44  InnoDB: Starting shutdown...
+130404 14:35:45  InnoDB: Shutdown completed; log sequence number 2080290
+130404 14:35:45 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130410 12:26:39 [Note] Plugin 'FEDERATED' is disabled.
+130410 12:26:39 InnoDB: The InnoDB memory heap is disabled
+130410 12:26:39 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130410 12:26:39 InnoDB: Compressed tables use zlib 1.2.3
+130410 12:26:39 InnoDB: Initializing buffer pool, size = 16.0M
+130410 12:26:39 InnoDB: Completed initialization of buffer pool
+130410 12:26:40 InnoDB: highest supported file format is Barracuda.
+130410 12:26:42  InnoDB: Waiting for the background threads to start
+130410 12:26:43 InnoDB: 1.1.8 started; log sequence number 2080290
+130410 12:26:45 [Note] Event Scheduler: Loaded 0 events
+130410 12:26:45 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130410 12:26:50 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130410 12:26:50 [ERROR] Cannot find or open table ib1_projekt_db/zdjecia from
+the internal data dictionary of InnoDB though the .frm file for the
+table exists. Maybe you have deleted and recreated InnoDB data
+files but have forgotten to delete the corresponding .frm files
+of InnoDB tables, or you have moved .frm files to another database?
+or, the table contains indexes that this version of the engine
+doesn't support.
+See http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+130410 12:41:02 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130410 12:41:02 [Note] Event Scheduler: Purging the queue. 0 events
+130410 12:41:02  InnoDB: Starting shutdown...
+130410 12:41:03  InnoDB: Shutdown completed; log sequence number 2080300
+130410 12:41:03 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130413 23:22:59 [Note] Plugin 'FEDERATED' is disabled.
+130413 23:22:59 InnoDB: The InnoDB memory heap is disabled
+130413 23:22:59 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130413 23:22:59 InnoDB: Compressed tables use zlib 1.2.3
+130413 23:23:00 InnoDB: Initializing buffer pool, size = 16.0M
+130413 23:23:00 InnoDB: Completed initialization of buffer pool
+130413 23:23:00 InnoDB: highest supported file format is Barracuda.
+130413 23:23:02  InnoDB: Waiting for the background threads to start
+130413 23:23:03 InnoDB: 1.1.8 started; log sequence number 2080300
+130413 23:23:04 [Note] Event Scheduler: Loaded 0 events
+130413 23:23:04 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130414  0:24:45 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130414  0:24:45 [Note] Event Scheduler: Purging the queue. 0 events
+130414  0:24:45  InnoDB: Starting shutdown...
+130414  0:24:45  InnoDB: Shutdown completed; log sequence number 2195318
+130414  0:24:45 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
+130414 20:27:16 [Note] Plugin 'FEDERATED' is disabled.
+130414 20:27:16 InnoDB: The InnoDB memory heap is disabled
+130414 20:27:16 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+130414 20:27:16 InnoDB: Compressed tables use zlib 1.2.3
+130414 20:27:16 InnoDB: Initializing buffer pool, size = 16.0M
+130414 20:27:16 InnoDB: Completed initialization of buffer pool
+130414 20:27:16 InnoDB: highest supported file format is Barracuda.
+130414 20:27:18  InnoDB: Waiting for the background threads to start
+130414 20:27:19 InnoDB: 1.1.8 started; log sequence number 2195318
+130414 20:27:20 [Note] Event Scheduler: Loaded 0 events
+130414 20:27:20 [Note] mysql\bin\mysqld.exe: ready for connections.
+Version: '5.5.16'  socket: ''  port: 3306  MySQL Community Server (GPL)
+130414 21:23:02 [Note] mysql\bin\mysqld.exe: Normal shutdown
+
+130414 21:23:02 [Note] Event Scheduler: Purging the queue. 0 events
+130414 21:23:02  InnoDB: Starting shutdown...
+130414 21:23:04  InnoDB: Shutdown completed; log sequence number 2235934
+130414 21:23:04 [Note] mysql\bin\mysqld.exe: Shutdown complete
+
