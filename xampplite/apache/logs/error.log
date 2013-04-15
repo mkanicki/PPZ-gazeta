@@ -1,0 +1,1065 @@
+[Sat Oct 08 20:49:47 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:49:47 2011] [notice] Digest: done
+[Sat Oct 08 20:49:47 2011] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Oct 08 20:49:47 2011] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Oct 08 20:49:48 2011] [notice] Parent: Created child process 5792
+[Sat Oct 08 20:49:48 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:49:48 2011] [notice] Digest: done
+[Sat Oct 08 20:49:48 2011] [notice] Child 5792: Child process is running
+[Sat Oct 08 20:49:48 2011] [notice] Child 5792: Acquired the start mutex.
+[Sat Oct 08 20:49:48 2011] [notice] Child 5792: Starting 150 worker threads.
+[Sat Oct 08 20:49:48 2011] [notice] Child 5792: Starting thread to listen on port 81.
+[Sat Oct 08 20:49:48 2011] [notice] Child 5792: Starting thread to listen on port 81.
+[Sat Oct 08 20:50:38 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 08 20:50:38 2011] [notice] Child 5792: Exit event signaled. Child process is ending.
+[Sat Oct 08 20:50:39 2011] [notice] Child 5792: Released the start mutex
+[Sat Oct 08 20:50:40 2011] [notice] Child 5792: All worker threads have exited.
+[Sat Oct 08 20:50:40 2011] [notice] Child 5792: Child process is exiting
+[Sat Oct 08 20:50:40 2011] [notice] Parent: Child process exited successfully.
+[Sat Oct 08 20:55:56 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:55:56 2011] [notice] Digest: done
+[Sat Oct 08 20:55:56 2011] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Oct 08 20:55:56 2011] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Oct 08 20:55:56 2011] [notice] Parent: Created child process 5968
+[Sat Oct 08 20:55:56 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:55:56 2011] [notice] Digest: done
+[Sat Oct 08 20:55:56 2011] [notice] Child 5968: Child process is running
+[Sat Oct 08 20:55:56 2011] [notice] Child 5968: Acquired the start mutex.
+[Sat Oct 08 20:55:56 2011] [notice] Child 5968: Starting 150 worker threads.
+[Sat Oct 08 20:55:56 2011] [notice] Child 5968: Starting thread to listen on port 81.
+[Sat Oct 08 20:55:56 2011] [notice] Child 5968: Starting thread to listen on port 81.
+[Sat Oct 08 20:57:05 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 08 20:57:05 2011] [notice] Child 5968: Exit event signaled. Child process is ending.
+[Sat Oct 08 20:57:06 2011] [notice] Child 5968: Released the start mutex
+[Sat Oct 08 20:57:07 2011] [notice] Child 5968: All worker threads have exited.
+[Sat Oct 08 20:57:07 2011] [notice] Child 5968: Child process is exiting
+[Sat Oct 08 20:57:07 2011] [notice] Parent: Child process exited successfully.
+[Sat Oct 08 20:57:16 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:57:16 2011] [notice] Digest: done
+[Sat Oct 08 20:57:16 2011] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Oct 08 20:57:16 2011] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Oct 08 20:57:16 2011] [notice] Parent: Created child process 3780
+[Sat Oct 08 20:57:16 2011] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 08 20:57:16 2011] [notice] Digest: done
+[Sat Oct 08 20:57:16 2011] [notice] Child 3780: Child process is running
+[Sat Oct 08 20:57:16 2011] [notice] Child 3780: Acquired the start mutex.
+[Sat Oct 08 20:57:16 2011] [notice] Child 3780: Starting 150 worker threads.
+[Sat Oct 08 20:57:16 2011] [notice] Child 3780: Starting thread to listen on port 81.
+[Sat Oct 08 20:57:16 2011] [notice] Child 3780: Starting thread to listen on port 81.
+[Sat Oct 08 23:46:37 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 08 23:46:37 2011] [notice] Child 3780: Exit event signaled. Child process is ending.
+[Sat Oct 08 23:46:38 2011] [notice] Child 3780: Released the start mutex
+[Sat Oct 08 23:46:39 2011] [notice] Child 3780: All worker threads have exited.
+[Sat Oct 08 23:46:39 2011] [notice] Child 3780: Child process is exiting
+[Sat Oct 08 23:46:39 2011] [notice] Parent: Child process exited successfully.
+[Sat Mar 16 22:33:30 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 16 22:33:30 2013] [notice] Digest: done
+[Sat Mar 16 22:33:30 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 16 22:33:30 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 16 22:33:30 2013] [notice] Parent: Created child process 6748
+[Sat Mar 16 22:33:30 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 16 22:33:30 2013] [notice] Digest: done
+[Sat Mar 16 22:33:30 2013] [notice] Child 6748: Child process is running
+[Sat Mar 16 22:33:30 2013] [notice] Child 6748: Acquired the start mutex.
+[Sat Mar 16 22:33:30 2013] [notice] Child 6748: Starting 150 worker threads.
+[Sat Mar 16 22:33:30 2013] [notice] Child 6748: Starting thread to listen on port 81.
+[Sat Mar 16 22:33:30 2013] [notice] Child 6748: Starting thread to listen on port 81.
+[Sat Mar 16 22:34:28 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/admin.php' not found or unable to stat
+[Sat Mar 16 23:12:48 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomosci.php&msg=1, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomosci.php
+[Sun Mar 17 00:10:21 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 17 00:10:21 2013] [notice] Child 6748: Exit event signaled. Child process is ending.
+[Sun Mar 17 00:10:22 2013] [notice] Child 6748: Released the start mutex
+[Sun Mar 17 00:10:23 2013] [notice] Child 6748: All worker threads have exited.
+[Sun Mar 17 00:10:23 2013] [notice] Child 6748: Child process is exiting
+[Sun Mar 17 00:10:23 2013] [notice] Parent: Child process exited successfully.
+[Sun Mar 17 10:21:37 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 17 10:21:37 2013] [notice] Digest: done
+[Sun Mar 17 10:21:37 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 17 10:21:37 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 17 10:21:37 2013] [notice] Parent: Created child process 7084
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sun Mar 17 10:21:38 2013] [notice] Digest: done
+[Sun Mar 17 10:21:38 2013] [notice] Child 7084: Child process is running
+[Sun Mar 17 10:21:38 2013] [notice] Child 7084: Acquired the start mutex.
+[Sun Mar 17 10:21:38 2013] [notice] Child 7084: Starting 150 worker threads.
+[Sun Mar 17 10:21:38 2013] [notice] Child 7084: Starting thread to listen on port 81.
+[Sun Mar 17 10:21:38 2013] [notice] Child 7084: Starting thread to listen on port 81.
+[Sun Mar 17 10:35:43 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 17 10:35:43 2013] [notice] Child 7084: Exit event signaled. Child process is ending.
+[Sun Mar 17 10:35:44 2013] [notice] Child 7084: Released the start mutex
+[Sun Mar 17 10:35:45 2013] [notice] Child 7084: All worker threads have exited.
+[Sun Mar 17 10:35:45 2013] [notice] Child 7084: Child process is exiting
+[Sun Mar 17 10:35:45 2013] [notice] Parent: Child process exited successfully.
+[Sun Mar 17 10:36:10 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 17 10:36:10 2013] [notice] Digest: done
+[Sun Mar 17 10:36:10 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 17 10:36:10 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 17 10:36:10 2013] [notice] Parent: Created child process 7800
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sun Mar 17 10:36:10 2013] [notice] Digest: done
+[Sun Mar 17 10:36:10 2013] [notice] Child 7800: Child process is running
+[Sun Mar 17 10:36:10 2013] [notice] Child 7800: Acquired the start mutex.
+[Sun Mar 17 10:36:10 2013] [notice] Child 7800: Starting 150 worker threads.
+[Sun Mar 17 10:36:10 2013] [notice] Child 7800: Starting thread to listen on port 81.
+[Sun Mar 17 10:36:10 2013] [notice] Child 7800: Starting thread to listen on port 81.
+[Sun Mar 17 10:36:14 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 17 10:36:14 2013] [notice] Child 7800: Exit event signaled. Child process is ending.
+[Sun Mar 17 10:36:15 2013] [notice] Child 7800: Released the start mutex
+[Sun Mar 17 10:36:16 2013] [notice] Child 7800: All worker threads have exited.
+[Sun Mar 17 10:36:16 2013] [notice] Child 7800: Child process is exiting
+[Sun Mar 17 10:36:16 2013] [notice] Parent: Child process exited successfully.
+[Tue Mar 19 19:46:50 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 19 19:46:50 2013] [notice] Digest: done
+[Tue Mar 19 19:46:50 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Tue Mar 19 19:46:50 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Tue Mar 19 19:46:50 2013] [notice] Parent: Created child process 3016
+[Tue Mar 19 19:46:50 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 19 19:46:50 2013] [notice] Digest: done
+[Tue Mar 19 19:46:50 2013] [notice] Child 3016: Child process is running
+[Tue Mar 19 19:46:50 2013] [notice] Child 3016: Acquired the start mutex.
+[Tue Mar 19 19:46:50 2013] [notice] Child 3016: Starting 150 worker threads.
+[Tue Mar 19 19:46:50 2013] [notice] Child 3016: Starting thread to listen on port 81.
+[Tue Mar 19 19:46:50 2013] [notice] Child 3016: Starting thread to listen on port 81.
+[Tue Mar 19 20:35:00 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomoscikrok1.php' not found or unable to stat
+[Tue Mar 19 21:03:12 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 19 21:03:12 2013] [notice] Child 3016: Exit event signaled. Child process is ending.
+[Tue Mar 19 21:03:13 2013] [notice] Child 3016: Released the start mutex
+[Tue Mar 19 21:03:14 2013] [notice] Child 3016: All worker threads have exited.
+[Tue Mar 19 21:03:14 2013] [notice] Child 3016: Child process is exiting
+[Tue Mar 19 21:03:14 2013] [notice] Parent: Child process exited successfully.
+[Fri Mar 29 17:19:40 2013] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 29 17:19:40 2013] [notice] Digest: done
+[Fri Mar 29 17:19:40 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Fri Mar 29 17:19:40 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Fri Mar 29 17:19:40 2013] [notice] Parent: Created child process 8492
+[Fri Mar 29 17:19:40 2013] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 29 17:19:40 2013] [notice] Digest: done
+[Fri Mar 29 17:19:40 2013] [notice] Child 8492: Child process is running
+[Fri Mar 29 17:19:40 2013] [notice] Child 8492: Acquired the start mutex.
+[Fri Mar 29 17:19:40 2013] [notice] Child 8492: Starting 150 worker threads.
+[Fri Mar 29 17:19:40 2013] [notice] Child 8492: Starting thread to listen on port 81.
+[Fri Mar 29 17:19:40 2013] [notice] Child 8492: Starting thread to listen on port 81.
+[Fri Mar 29 17:33:40 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.grupy.index.php' not found or unable to stat, referer: http://localhost:81/Projekt_-_IB1/admin.uzytkownicy.index.php
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:34:46 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:41:47 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:50:39 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:53:58 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:54:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:54:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:54:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:54:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:54:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:55:07 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:55:07 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:55:07 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:55:07 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:56:57 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:56:59 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:41 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:41 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:41 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:41 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:42 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:42 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:42 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 17:57:42 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:00:06 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:00:06 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:00:06 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:00:06 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:00:14 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php
+[Fri Mar 29 18:00:14 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php
+[Fri Mar 29 18:00:14 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php
+[Fri Mar 29 18:00:14 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/images, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php
+[Fri Mar 29 18:39:05 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/Array, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:41:02 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/Array, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 18:42:41 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/Array, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 19:27:15 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomoscikrok4.phpid=14, referer: http://localhost:81/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3.php?id=14
+[Fri Mar 29 23:00:23 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/lightbox-btn-close.gif, referer: http://localhost:81/Projekt_-_IB1/szczdomy.php?id=15
+[Fri Mar 29 23:09:07 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomosci3
+[Fri Mar 29 23:09:14 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomoscikrok3
+[Fri Mar 29 23:59:56 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Mar 29 23:59:56 2013] [notice] Child 8492: Exit event signaled. Child process is ending.
+[Fri Mar 29 23:59:57 2013] [notice] Child 8492: Released the start mutex
+[Fri Mar 29 23:59:58 2013] [notice] Child 8492: All worker threads have exited.
+[Fri Mar 29 23:59:58 2013] [notice] Child 8492: Child process is exiting
+[Fri Mar 29 23:59:58 2013] [notice] Parent: Child process exited successfully.
+[Sat Mar 30 09:33:21 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 30 09:33:21 2013] [notice] Digest: done
+[Sat Mar 30 09:33:21 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Mar 30 09:33:21 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Mar 30 09:33:21 2013] [notice] Parent: Created child process 7856
+[Sat Mar 30 09:33:22 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Mar 30 09:33:22 2013] [notice] Digest: done
+[Sat Mar 30 09:33:22 2013] [notice] Child 7856: Child process is running
+[Sat Mar 30 09:33:22 2013] [notice] Child 7856: Acquired the start mutex.
+[Sat Mar 30 09:33:22 2013] [notice] Child 7856: Starting 150 worker threads.
+[Sat Mar 30 09:33:22 2013] [notice] Child 7856: Starting thread to listen on port 81.
+[Sat Mar 30 09:33:22 2013] [notice] Child 7856: Starting thread to listen on port 81.
+[Sat Mar 30 12:42:26 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/admin.dodawanienieruchomosci
+[Sat Mar 30 23:42:20 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Mar 30 23:42:20 2013] [notice] Child 7856: Exit event signaled. Child process is ending.
+[Sat Mar 30 23:42:21 2013] [notice] Child 7856: Released the start mutex
+[Sat Mar 30 23:42:22 2013] [notice] Child 7856: All worker threads have exited.
+[Sat Mar 30 23:42:22 2013] [notice] Child 7856: Child process is exiting
+[Sat Mar 30 23:42:22 2013] [notice] Parent: Child process exited successfully.
+[Sun Mar 31 22:57:49 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 22:57:49 2013] [notice] Digest: done
+[Sun Mar 31 22:57:49 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sun Mar 31 22:57:49 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Mar 31 22:57:49 2013] [notice] Parent: Created child process 8176
+[Sun Mar 31 22:57:50 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Mar 31 22:57:50 2013] [notice] Digest: done
+[Sun Mar 31 22:57:50 2013] [notice] Child 8176: Child process is running
+[Sun Mar 31 22:57:50 2013] [notice] Child 8176: Acquired the start mutex.
+[Sun Mar 31 22:57:50 2013] [notice] Child 8176: Starting 150 worker threads.
+[Sun Mar 31 22:57:50 2013] [notice] Child 8176: Starting thread to listen on port 81.
+[Sun Mar 31 22:57:50 2013] [notice] Child 8176: Starting thread to listen on port 81.
+[Sun Mar 31 23:05:43 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Mar 31 23:05:43 2013] [notice] Child 8176: Exit event signaled. Child process is ending.
+[Sun Mar 31 23:05:44 2013] [notice] Child 8176: Released the start mutex
+[Sun Mar 31 23:05:45 2013] [notice] Child 8176: All worker threads have exited.
+[Sun Mar 31 23:05:45 2013] [notice] Child 8176: Child process is exiting
+[Sun Mar 31 23:05:45 2013] [notice] Parent: Child process exited successfully.
+[Tue Apr 02 16:01:18 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Apr 02 16:01:18 2013] [notice] Digest: done
+[Tue Apr 02 16:01:18 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Tue Apr 02 16:01:18 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Tue Apr 02 16:01:18 2013] [notice] Parent: Created child process 4932
+[Tue Apr 02 16:01:18 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Apr 02 16:01:18 2013] [notice] Digest: done
+[Tue Apr 02 16:01:18 2013] [notice] Child 4932: Child process is running
+[Tue Apr 02 16:01:18 2013] [notice] Child 4932: Acquired the start mutex.
+[Tue Apr 02 16:01:18 2013] [notice] Child 4932: Starting 150 worker threads.
+[Tue Apr 02 16:01:18 2013] [notice] Child 4932: Starting thread to listen on port 81.
+[Tue Apr 02 16:01:18 2013] [notice] Child 4932: Starting thread to listen on port 81.
+[Tue Apr 02 17:09:30 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/koszyk.php' not found or unable to stat, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 17:26:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/images/logo.jpg, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 17:26:24 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/images/logo.jpg, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 17:26:26 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/images/logo.jpg, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 17:26:27 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/images/logo.jpg, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 17:26:27 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/ppz-gazeta/images/logo.jpg, referer: http://localhost:81/ppz-gazeta/index.php
+[Tue Apr 02 23:37:10 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Apr 02 23:37:10 2013] [notice] Child 4932: Exit event signaled. Child process is ending.
+[Tue Apr 02 23:37:11 2013] [notice] Child 4932: Released the start mutex
+[Tue Apr 02 23:37:12 2013] [notice] Child 4932: All worker threads have exited.
+[Tue Apr 02 23:37:12 2013] [notice] Child 4932: Child process is exiting
+[Tue Apr 02 23:37:12 2013] [notice] Parent: Child process exited successfully.
+[Thu Apr 04 11:28:25 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 11:28:25 2013] [notice] Digest: done
+[Thu Apr 04 11:28:25 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Thu Apr 04 11:28:25 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 04 11:28:25 2013] [notice] Parent: Created child process 6948
+[Thu Apr 04 11:28:25 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 11:28:25 2013] [notice] Digest: done
+[Thu Apr 04 11:28:25 2013] [notice] Child 6948: Child process is running
+[Thu Apr 04 11:28:25 2013] [notice] Child 6948: Acquired the start mutex.
+[Thu Apr 04 11:28:25 2013] [notice] Child 6948: Starting 150 worker threads.
+[Thu Apr 04 11:28:25 2013] [notice] Child 6948: Starting thread to listen on port 81.
+[Thu Apr 04 11:28:25 2013] [notice] Child 6948: Starting thread to listen on port 81.
+[Thu Apr 04 11:57:54 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 04 11:57:54 2013] [notice] Child 6948: Exit event signaled. Child process is ending.
+[Thu Apr 04 11:57:55 2013] [notice] Child 6948: Released the start mutex
+[Thu Apr 04 11:57:56 2013] [notice] Child 6948: All worker threads have exited.
+[Thu Apr 04 11:57:56 2013] [notice] Child 6948: Child process is exiting
+[Thu Apr 04 11:57:56 2013] [notice] Parent: Child process exited successfully.
+[Thu Apr 04 13:51:58 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 13:51:58 2013] [notice] Digest: done
+[Thu Apr 04 13:51:58 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Thu Apr 04 13:51:58 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Thu Apr 04 13:51:58 2013] [notice] Parent: Created child process 5840
+[Thu Apr 04 13:51:58 2013] [notice] Digest: generating secret for digest authentication ...
+[Thu Apr 04 13:51:58 2013] [notice] Digest: done
+[Thu Apr 04 13:51:58 2013] [notice] Child 5840: Child process is running
+[Thu Apr 04 13:51:58 2013] [notice] Child 5840: Acquired the start mutex.
+[Thu Apr 04 13:51:58 2013] [notice] Child 5840: Starting 150 worker threads.
+[Thu Apr 04 13:51:58 2013] [notice] Child 5840: Starting thread to listen on port 81.
+[Thu Apr 04 13:51:58 2013] [notice] Child 5840: Starting thread to listen on port 81.
+[Thu Apr 04 14:24:54 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/lightbox-btn-close.gif, referer: http://localhost:81/Projekt_-_IB1/szczdomy.php?id=15
+[Thu Apr 04 14:24:55 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/lightbox-blank.gif, referer: http://localhost:81/Projekt_-_IB1/szczdomy.php?id=15
+[Thu Apr 04 14:25:01 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/lightbox-btn-close.gif, referer: http://localhost:81/Projekt_-_IB1/szczdomy.php?id=15
+[Thu Apr 04 14:25:02 2013] [error] [client ::1] File does not exist: C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/Projekt_-_IB1/images/lightbox-blank.gif, referer: http://localhost:81/Projekt_-_IB1/szczdomy.php?id=15
+[Thu Apr 04 14:35:44 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 04 14:35:44 2013] [notice] Child 5840: Exit event signaled. Child process is ending.
+[Thu Apr 04 14:35:45 2013] [notice] Child 5840: Released the start mutex
+[Thu Apr 04 14:35:46 2013] [notice] Child 5840: All worker threads have exited.
+[Thu Apr 04 14:35:46 2013] [notice] Child 5840: Child process is exiting
+[Thu Apr 04 14:35:46 2013] [notice] Parent: Child process exited successfully.
+[Wed Apr 10 12:26:43 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 10 12:26:43 2013] [notice] Digest: done
+[Wed Apr 10 12:26:43 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Wed Apr 10 12:26:43 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Wed Apr 10 12:26:43 2013] [notice] Parent: Created child process 784
+[Wed Apr 10 12:26:43 2013] [notice] Digest: generating secret for digest authentication ...
+[Wed Apr 10 12:26:43 2013] [notice] Digest: done
+[Wed Apr 10 12:26:43 2013] [notice] Child 784: Child process is running
+[Wed Apr 10 12:26:43 2013] [notice] Child 784: Acquired the start mutex.
+[Wed Apr 10 12:26:43 2013] [notice] Child 784: Starting 150 worker threads.
+[Wed Apr 10 12:26:43 2013] [notice] Child 784: Starting thread to listen on port 81.
+[Wed Apr 10 12:26:43 2013] [notice] Child 784: Starting thread to listen on port 81.
+[Wed Apr 10 12:41:02 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 10 12:41:02 2013] [notice] Child 784: Exit event signaled. Child process is ending.
+[Wed Apr 10 12:41:03 2013] [notice] Child 784: Released the start mutex
+[Wed Apr 10 12:41:04 2013] [notice] Child 784: All worker threads have exited.
+[Wed Apr 10 12:41:04 2013] [notice] Child 784: Child process is exiting
+[Wed Apr 10 12:41:04 2013] [notice] Parent: Child process exited successfully.
+[Sat Apr 13 23:23:02 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 13 23:23:02 2013] [notice] Digest: done
+[Sat Apr 13 23:23:02 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sat Apr 13 23:23:02 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sat Apr 13 23:23:02 2013] [notice] Parent: Created child process 860
+[Sat Apr 13 23:23:03 2013] [notice] Digest: generating secret for digest authentication ...
+[Sat Apr 13 23:23:03 2013] [notice] Digest: done
+[Sat Apr 13 23:23:03 2013] [notice] Child 860: Child process is running
+[Sat Apr 13 23:23:03 2013] [notice] Child 860: Acquired the start mutex.
+[Sat Apr 13 23:23:03 2013] [notice] Child 860: Starting 150 worker threads.
+[Sat Apr 13 23:23:03 2013] [notice] Child 860: Starting thread to listen on port 81.
+[Sat Apr 13 23:23:03 2013] [notice] Child 860: Starting thread to listen on port 81.
+[Sat Apr 13 23:55:59 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/orm-koniec09042013/nieruchomosci.szczegoly.php' not found or unable to stat, referer: http://localhost:81/orm-koniec09042013/nieruchomosci.przegladaj.php?typ=mieszkanie
+[Sat Apr 13 23:56:02 2013] [error] [client ::1] script 'C:/Users/Ola/Desktop/OLA/WSISIZ/6. semestr/Internetowe bazy danych 2/xampplite-zf/xampplite/htdocs/orm-koniec09042013/nieruchomosci.edycja.php' not found or unable to stat, referer: http://localhost:81/orm-koniec09042013/nieruchomosci.przegladaj.php?typ=mieszkanie
+[Sun Apr 14 00:24:45 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun Apr 14 00:24:45 2013] [notice] Child 860: Exit event signaled. Child process is ending.
+[Sun Apr 14 00:24:46 2013] [notice] Child 860: Released the start mutex
+[Sun Apr 14 00:24:47 2013] [notice] Child 860: All worker threads have exited.
+[Sun Apr 14 00:24:47 2013] [notice] Child 860: Child process is exiting
+[Sun Apr 14 00:24:47 2013] [notice] Parent: Child process exited successfully.
+[Sun Apr 14 20:27:17 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 14 20:27:17 2013] [notice] Digest: done
+[Sun Apr 14 20:27:17 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Sun Apr 14 20:27:17 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Sun Apr 14 20:27:17 2013] [notice] Parent: Created child process 4176
+[Sun Apr 14 20:27:17 2013] [notice] Digest: generating secret for digest authentication ...
+[Sun Apr 14 20:27:17 2013] [notice] Digest: done
+[Sun Apr 14 20:27:17 2013] [notice] Child 4176: Child process is running
+[Sun Apr 14 20:27:17 2013] [notice] Child 4176: Acquired the start mutex.
+[Sun Apr 14 20:27:17 2013] [notice] Child 4176: Starting 150 worker threads.
+[Sun Apr 14 20:27:17 2013] [notice] Child 4176: Starting thread to listen on port 81.
+[Sun Apr 14 20:27:17 2013] [notice] Child 4176: Starting thread to listen on port 81.
+[Mon Apr 15 17:02:49 2013] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  Cannot open '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+<br />
+<b>Warning</b>:  Cannot open '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\extras\browscap.ini' for reading in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:03:21 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:03:21 2013] [notice] Digest: done
+[Mon Apr 15 17:03:21 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:03:21 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:03:21 2013] [notice] Parent: Created child process 5612
+Apache server shutdown initiated...
+ load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  Cannot open '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+<br />
+<b>Warning</b>:  Cannot open '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\extras\browscap.ini' for reading in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:03:29 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:03:29 2013] [notice] Digest: done
+[Mon Apr 15 17:03:29 2013] [notice] Child 5612: Child process is running
+[Mon Apr 15 17:03:29 2013] [notice] Child 5612: Acquired the start mutex.
+[Mon Apr 15 17:03:29 2013] [notice] Child 5612: Starting 150 worker threads.
+[Mon Apr 15 17:03:29 2013] [notice] Child 5612: Starting thread to listen on port 81.
+[Mon Apr 15 17:03:29 2013] [notice] Child 5612: Starting thread to listen on port 81.
+[Mon Apr 15 17:04:22 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:04:22 2013] [notice] Child 5612: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:04:23 2013] [notice] Child 5612: Released the start mutex
+[Mon Apr 15 17:04:24 2013] [notice] Child 5612: All worker threads have exited.
+[Mon Apr 15 17:04:24 2013] [notice] Child 5612: Child process is exiting
+[Mon Apr 15 17:04:24 2013] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  Cannot open '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+<br />
+<b>Warning</b>:  Cannot open '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\extras\browscap.ini' for reading in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:05:51 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:05:51 2013] [notice] Digest: done
+[Mon Apr 15 17:05:51 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:05:51 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:05:51 2013] [notice] Parent: Created child process 1364
+Apache server shutdown initiated...
+ load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  Cannot open '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\extras\\browscap.ini' for reading in Unknown on line 0
+<br />
+<b>Warning</b>:  Cannot open '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\extras\browscap.ini' for reading in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:06:04 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:06:04 2013] [notice] Digest: done
+[Mon Apr 15 17:06:04 2013] [notice] Child 1364: Child process is running
+[Mon Apr 15 17:06:04 2013] [notice] Child 1364: Acquired the start mutex.
+[Mon Apr 15 17:06:04 2013] [notice] Child 1364: Starting 150 worker threads.
+[Mon Apr 15 17:06:04 2013] [notice] Child 1364: Starting thread to listen on port 81.
+[Mon Apr 15 17:06:04 2013] [notice] Child 1364: Starting thread to listen on port 81.
+[Mon Apr 15 17:06:08 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:06:08 2013] [notice] Child 1364: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:06:09 2013] [notice] Child 1364: Released the start mutex
+[Mon Apr 15 17:06:10 2013] [notice] Child 1364: All worker threads have exited.
+[Mon Apr 15 17:06:10 2013] [notice] Child 1364: Child process is exiting
+[Mon Apr 15 17:06:10 2013] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:12:28 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:12:28 2013] [notice] Digest: done
+[Mon Apr 15 17:12:28 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:12:28 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:12:28 2013] [notice] Parent: Created child process 4180
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:12:46 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:12:46 2013] [notice] Digest: done
+[Mon Apr 15 17:12:46 2013] [notice] Child 4180: Child process is running
+[Mon Apr 15 17:12:46 2013] [notice] Child 4180: Acquired the start mutex.
+[Mon Apr 15 17:12:46 2013] [notice] Child 4180: Starting 150 worker threads.
+[Mon Apr 15 17:12:46 2013] [notice] Child 4180: Starting thread to listen on port 81.
+[Mon Apr 15 17:12:46 2013] [notice] Child 4180: Starting thread to listen on port 81.
+[Mon Apr 15 17:13:03 2013] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+Apache server shutdown initiated...
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:15:20 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:15:20 2013] [notice] Digest: done
+[Mon Apr 15 17:15:20 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:15:20 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:15:20 2013] [notice] Parent: Created child process 5632
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_bz2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_bz2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mbstring.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mbstring.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_exif.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_exif.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gd2.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gd2.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_gettext.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_gettext.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_imap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_imap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_mysqli.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_mysqli.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_mysql.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_mysql.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_odbc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_odbc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_pdo_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_pdo_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_soap.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_soap.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sockets.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sockets.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_sqlite3.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_sqlite3.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+PHP Warning:  PHP Startup: Unable to load dynamic library '\\Users\\Ola\\Desktop\\OLA\\WSISIZ\\6. semestr\\Internetowe bazy danych 2\\xampplite-zf\\xampplite\\php\\ext\\php_xmlrpc.dll' - Nie mo\xbfna odnale\x9f\xe6 okre\x9clonego modu\xb3u.\r\n in Unknown on line 0
+<br />
+<b>Warning</b>:  PHP Startup: Unable to load dynamic library '\Users\Ola\Desktop\OLA\WSISIZ\6. semestr\Internetowe bazy danych 2\xampplite-zf\xampplite\php\ext\php_xmlrpc.dll' - Nie mo¿na odnaleŸæ okreœlonego modu³u.
+ in <b>Unknown</b> on line <b>0</b><br />
+[Mon Apr 15 17:15:24 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:15:24 2013] [notice] Digest: done
+[Mon Apr 15 17:15:24 2013] [notice] Child 5632: Child process is running
+[Mon Apr 15 17:15:24 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:15:24 2013] [notice] Child 5632: Acquired the start mutex.
+[Mon Apr 15 17:15:24 2013] [notice] Child 5632: Starting 150 worker threads.
+[Mon Apr 15 17:15:24 2013] [notice] Child 5632: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:15:24 2013] [notice] Child 5632: Starting thread to listen on port 81.
+[Mon Apr 15 17:15:24 2013] [error] (OS 10038)Próbowano przeprowadziæ próbê na obiekcie, który nie jest gniazdem.  : winnt_accept: getsockname error on listening socket, is IPv6 available?
+[Mon Apr 15 17:15:25 2013] [notice] Child 5632: Released the start mutex
+[Mon Apr 15 17:15:26 2013] [notice] Child 5632: All worker threads have exited.
+[Mon Apr 15 17:15:26 2013] [notice] Child 5632: Child process is exiting
+[Mon Apr 15 17:23:11 2013] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 15 17:23:11 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:23:11 2013] [notice] Digest: done
+[Mon Apr 15 17:23:11 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:23:11 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:23:11 2013] [notice] Parent: Created child process 3680
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:23:12 2013] [notice] Digest: done
+[Mon Apr 15 17:23:12 2013] [notice] Child 3680: Child process is running
+[Mon Apr 15 17:23:12 2013] [notice] Child 3680: Acquired the start mutex.
+[Mon Apr 15 17:23:12 2013] [notice] Child 3680: Starting 150 worker threads.
+[Mon Apr 15 17:23:12 2013] [notice] Child 3680: Starting thread to listen on port 81.
+[Mon Apr 15 17:23:12 2013] [notice] Child 3680: Starting thread to listen on port 81.
+[Mon Apr 15 17:35:16 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:35:16 2013] [notice] Child 3680: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:35:17 2013] [notice] Child 3680: Released the start mutex
+[Mon Apr 15 17:35:18 2013] [notice] Child 3680: All worker threads have exited.
+[Mon Apr 15 17:35:18 2013] [notice] Child 3680: Child process is exiting
+[Mon Apr 15 17:35:18 2013] [notice] Parent: Child process exited successfully.
+[Mon Apr 15 17:35:40 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:35:40 2013] [notice] Digest: done
+[Mon Apr 15 17:35:40 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:35:40 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:35:40 2013] [notice] Parent: Created child process 1896
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:35:41 2013] [notice] Digest: done
+[Mon Apr 15 17:35:41 2013] [notice] Child 1896: Child process is running
+[Mon Apr 15 17:35:41 2013] [notice] Child 1896: Acquired the start mutex.
+[Mon Apr 15 17:35:41 2013] [notice] Child 1896: Starting 150 worker threads.
+[Mon Apr 15 17:35:41 2013] [notice] Child 1896: Starting thread to listen on port 81.
+[Mon Apr 15 17:35:41 2013] [notice] Child 1896: Starting thread to listen on port 81.
+[Mon Apr 15 17:35:44 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:35:44 2013] [notice] Child 1896: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:35:45 2013] [notice] Child 1896: Released the start mutex
+[Mon Apr 15 17:35:46 2013] [notice] Child 1896: All worker threads have exited.
+[Mon Apr 15 17:35:46 2013] [notice] Child 1896: Child process is exiting
+[Mon Apr 15 17:35:46 2013] [notice] Parent: Child process exited successfully.
+[Mon Apr 15 17:39:37 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:39:37 2013] [notice] Digest: done
+[Mon Apr 15 17:39:37 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:39:37 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:39:37 2013] [notice] Parent: Created child process 4668
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:39:38 2013] [notice] Digest: done
+[Mon Apr 15 17:39:38 2013] [notice] Child 4668: Child process is running
+[Mon Apr 15 17:39:38 2013] [notice] Child 4668: Acquired the start mutex.
+[Mon Apr 15 17:39:38 2013] [notice] Child 4668: Starting 150 worker threads.
+[Mon Apr 15 17:39:38 2013] [notice] Child 4668: Starting thread to listen on port 81.
+[Mon Apr 15 17:39:38 2013] [notice] Child 4668: Starting thread to listen on port 81.
+[Mon Apr 15 17:44:43 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 17:44:43 2013] [notice] Child 4668: Exit event signaled. Child process is ending.
+[Mon Apr 15 17:44:44 2013] [notice] Child 4668: Released the start mutex
+[Mon Apr 15 17:44:45 2013] [notice] Child 4668: All worker threads have exited.
+[Mon Apr 15 17:44:45 2013] [notice] Child 4668: Child process is exiting
+[Mon Apr 15 17:44:45 2013] [notice] Parent: Child process exited successfully.
+[Mon Apr 15 17:44:49 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:44:49 2013] [notice] Digest: done
+[Mon Apr 15 17:44:49 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 17:44:49 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 17:44:49 2013] [notice] Parent: Created child process 2384
+[Mon Apr 15 17:44:50 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 17:44:50 2013] [notice] Digest: done
+[Mon Apr 15 17:44:50 2013] [notice] Child 2384: Child process is running
+[Mon Apr 15 17:44:50 2013] [notice] Child 2384: Acquired the start mutex.
+[Mon Apr 15 17:44:50 2013] [notice] Child 2384: Starting 150 worker threads.
+[Mon Apr 15 17:44:50 2013] [notice] Child 2384: Starting thread to listen on port 81.
+[Mon Apr 15 17:44:50 2013] [notice] Child 2384: Starting thread to listen on port 81.
+[Mon Apr 15 19:15:28 2013] [warn] pid file C:/Users/Ola/Desktop/xampplite/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 15 19:15:28 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 19:15:28 2013] [notice] Digest: done
+[Mon Apr 15 19:15:28 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 19:15:28 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 19:15:28 2013] [notice] Parent: Created child process 5492
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Mon Apr 15 19:15:28 2013] [notice] Digest: done
+[Mon Apr 15 19:15:28 2013] [notice] Child 5492: Child process is running
+[Mon Apr 15 19:15:28 2013] [notice] Child 5492: Acquired the start mutex.
+[Mon Apr 15 19:15:28 2013] [notice] Child 5492: Starting 150 worker threads.
+[Mon Apr 15 19:15:28 2013] [notice] Child 5492: Starting thread to listen on port 81.
+[Mon Apr 15 19:15:28 2013] [notice] Child 5492: Starting thread to listen on port 81.
+[Mon Apr 15 19:15:34 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 19:15:34 2013] [notice] Child 5492: Exit event signaled. Child process is ending.
+[Mon Apr 15 19:15:35 2013] [notice] Child 5492: Released the start mutex
+[Mon Apr 15 19:15:36 2013] [notice] Child 5492: All worker threads have exited.
+[Mon Apr 15 19:15:36 2013] [notice] Child 5492: Child process is exiting
+[Mon Apr 15 19:15:36 2013] [notice] Parent: Child process exited successfully.
+[Mon Apr 15 19:15:38 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 19:15:38 2013] [notice] Digest: done
+[Mon Apr 15 19:15:38 2013] [notice] Apache/2.2.21 (Win32) PHP/5.3.8 configured -- resuming normal operations
+[Mon Apr 15 19:15:38 2013] [notice] Server built: Sep 10 2011 11:34:11
+[Mon Apr 15 19:15:38 2013] [notice] Parent: Created child process 5900
+[Mon Apr 15 19:15:38 2013] [notice] Digest: generating secret for digest authentication ...
+[Mon Apr 15 19:15:38 2013] [notice] Digest: done
+[Mon Apr 15 19:15:38 2013] [notice] Child 5900: Child process is running
+[Mon Apr 15 19:15:38 2013] [notice] Child 5900: Acquired the start mutex.
+[Mon Apr 15 19:15:38 2013] [notice] Child 5900: Starting 150 worker threads.
+[Mon Apr 15 19:15:38 2013] [notice] Child 5900: Starting thread to listen on port 81.
+[Mon Apr 15 19:15:38 2013] [notice] Child 5900: Starting thread to listen on port 81.
+[Mon Apr 15 19:23:01 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 15 19:23:01 2013] [notice] Child 5900: Exit event signaled. Child process is ending.
+[Mon Apr 15 19:23:02 2013] [notice] Child 5900: Released the start mutex
+[Mon Apr 15 19:23:03 2013] [notice] Child 5900: All worker threads have exited.
+[Mon Apr 15 19:23:03 2013] [notice] Child 5900: Child process is exiting
+[Mon Apr 15 19:23:03 2013] [notice] Parent: Child process exited successfully.
