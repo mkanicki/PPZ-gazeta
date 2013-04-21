@@ -114,3 +114,7 @@ a {
 a:hover {
 	border-bottom: 1px solid #333;
 }
+
+.puste {
+	background-color: #DF6F6F;
+}
