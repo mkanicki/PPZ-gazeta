@@ -1,7 +1,7 @@
 #all
 {
     margin: 0 auto;
-    width: 1305px;
+    width: 1234px;
     background: lavender;
     border: black solid thin;
     overflow: auto;
@@ -9,6 +9,7 @@
 
 #header
 {
+    height: 100px;
     background: #ADD8E6;
     padding: 20px;
 }
@@ -21,16 +22,37 @@
 
 #list
 {
-    width: 300px;
+    width: 250px;
+    height: 1050px;
     border: black solid thin;
     float: left;
+    overflow:scroll;
+}
+
+.miniatura_container{
+	margin:0% 4% 4% 17%;
+	width:65%;
+        
+
+}
+
+.miniatura{
+        cursor: pointer;
+	margin:2 2 2 2;
+	width:100%;
+        
+        -moz-box-shadow: 4px 4px 2px #C0C0C0 ;
+        -webkit-box-shadow: 4px 4px 2px #C0C0C0 ;
+        box-shadow: 4px 4px 2px #C0C0C0 ;
 }
 
 #main-panel
 {
-    width: 1000px;
+    width: 980px;
+    height: 1050px;
     border: black solid thin;
-    float: right;
+    float: left;
+    overflow: auto;
 }
 
 ul.buttons
@@ -73,6 +95,26 @@ body {
 	font-family: verdana;
 	font-size: 14px;
 }
+
+.tableWydanieKoszyk{
+    width: 730px;
+   margin-top: 20px;
+   text-align:center;
+    margin-left: 125px;
+    border: solid 2px #191970;
+    overflow: auto;
+}
+.tableWydanieKoszyk td{
+    border: solid 1px #191970;
+   
+}
+
+.tableWydanieKoszyk a{
+    color:#191970;
+    text-decoration: none;
+    
+}
+
 
 table {
 	border-collapse: collapse;
