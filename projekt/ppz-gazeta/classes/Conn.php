@@ -138,4 +138,5 @@ class Conn
 	{
 		return mysql_escape_string($string);
 	}
+
 }

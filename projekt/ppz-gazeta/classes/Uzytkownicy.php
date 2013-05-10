@@ -5,13 +5,13 @@ require_once "Conn.php";
 class Uzytkownicy
 {
     /**
-     * Id użytkownika
+     * Id Uzytkownika
      * @var int
      */
     protected $_idUzytkownik = null;
 
     /**
-     * Id grupy użytkownika.
+     * Id grupy Uzytkownika.
      * @var int
      */
     protected $_idRoli = null;
@@ -20,7 +20,7 @@ class Uzytkownicy
 
 	protected $_Nazwisko = null;
     /**
-     * Dane użytkownika
+     * Dane Uzytkownika
      * @var array
      */
     protected $_dane;
@@ -29,7 +29,7 @@ class Uzytkownicy
 
     public function __construct()
     {
-        // pobierz z sesji id zalogowanego użytkownika i wstaw do pola klasy
+        // pobierz z sesji id zalogowanego Uzytkownika i wstaw do pola klasy
         if (!empty($_SESSION['id_uzytkownika']) && !empty($_SESSION['id_roli'])) {
             $this->_idUzytkownik = (int) $_SESSION['id_uzytkownika'];
             $this->_idRoli = (int) $_SESSION['id_roli'];
@@ -41,19 +41,21 @@ class Uzytkownicy
     }
 
     /**
-     * Loguje do serwisu użytkownika o podanym loginie i haśle.
-     * Wstawia id zalogowanego użytkownika do sesji.
+     * Loguje do serwisu Uzytkownika o podanym loginie i hasle.
+     * Wstawia id zalogowanego Uzytkownika do sesji.
      *
      * @param $login string
      * @param $haslo string
-     * @return bool True, jeśli logowanie powiodło się
+     * @return bool True, jesli logowanie powiodlo sie
      */
     public function zaloguj($login, $haslo)
     {
         $sql = "SELECT * FROM uzytkownik WHERE Login = '" . $this->_conn->escape($login) . "' AND Haslo = MD5('" . $this->_conn->escape($haslo) . "')";
 
         if ($row = $this->_conn->fetchRow($sql)) {
+            
             $_SESSION['id_uzytkownika'] = $row['idUzytkownik'];
+            $_SESSION['email_uzytkownika'] = $row['Email'];
             $_SESSION['id_roli'] = $row['idRola'];
 			$_SESSION['nazwisko']= $row['Nazwisko'];
 			$_SESSION['imie']= $row['Imie'];
@@ -69,7 +71,7 @@ class Uzytkownicy
     }
 
     /**
-     * Wylogowuje użytkownika.
+     * Wylogowuje Uzytkownika.
      *
      */
     public function wyloguj()
@@ -82,9 +84,9 @@ class Uzytkownicy
     }
 
     /**
-     * Sprawdza, czy użytkownik jest zalogowany.
+     * Sprawdza, czy Uzytkownik jest zalogowany.
      *
-     * @return bool True, jeśli jest
+     * @return bool True, jesli jest
      */
     public function czyZalogowany()
     {
@@ -95,7 +97,7 @@ class Uzytkownicy
     }
 
     /**
-     * Pobiera listę użytkowników.
+     * Pobiera liste Uzytkownikow.
      * 
      * @return array
      */
@@ -110,7 +112,7 @@ class Uzytkownicy
     }
 
     /**
-     * Pobiera dane pojedyńczego użytkownika.
+     * Pobiera dane pojedynczego Uzytkownika.
      * 
      * @param int $id
      * @return array
@@ -126,8 +128,8 @@ class Uzytkownicy
      * Dodaje/edytuje dane użytkownika
      *
      * @param array $dane
-     * @param int $id (optional) id użytkownika do edycji (jeśli nie ma, rekord jest dodawany)
-     * @return array|bool Tablica z błędami lub true, jeśli wszystko jest ok
+     * @param int $id (optional) id Uzytkownika do edycji (jesli nie ma, rekord jest dodawany)
+     * @return array|bool Tablica z bledami lub true, jesli wszystko jest ok
      */
     public function zapisz($dane, $id = null)
     {

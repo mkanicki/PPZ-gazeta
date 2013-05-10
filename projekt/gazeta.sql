@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Czas wygenerowania: 22 Kwi 2013, 21:38
+-- Czas wygenerowania: 11 May 2013, 01:09
 -- Wersja serwera: 5.5.16
 -- Wersja PHP: 5.3.8
 
@@ -30,12 +30,22 @@ CREATE TABLE IF NOT EXISTS `artykul` (
   `idWydanie` int(11) NOT NULL,
   `idArtykul` int(11) NOT NULL AUTO_INCREMENT,
   `Tytul` varchar(200) NOT NULL,
+  `data` date NOT NULL,
   `Sciezka` varchar(100) NOT NULL,
-  `Cena` int(11) NOT NULL,
+  `Cena` float NOT NULL,
   `LiczbaPobran` int(11) DEFAULT NULL,
+  `idWlasciciel` int(11) DEFAULT NULL,
   PRIMARY KEY (`idArtykul`,`idWydanie`),
   KEY `fk_Artykul_Wydanie1` (`idWydanie`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=25 ;
+
+--
+-- Zrzut danych tabeli `artykul`
+--
+
+INSERT INTO `artykul` (`idWydanie`, `idArtykul`, `Tytul`, `data`, `Sciezka`, `Cena`, `LiczbaPobran`, `idWlasciciel`) VALUES
+(1, 1, 'gniazda', '2013-04-01', '/xampplite/htdocs/ppz-gazeta/documents/wydanie1/Opcje_gniazd.pdf', 0.1, 2, NULL),
+(1, 3, 'serwer', '2013-05-15', '/xampplite/htdocs/ppz-gazeta/documents/wydanie1/Serwer-algorytmy.pdf', 3.5, 1, NULL);
 
 -- --------------------------------------------------------
 
@@ -50,7 +60,14 @@ CREATE TABLE IF NOT EXISTS `koszyk` (
   PRIMARY KEY (`idKoszyk`),
   KEY `fk_Koszyk_Artykul1` (`idArtykul`),
   KEY `fk_Koszyk_Uzytkownik1` (`idUzytkownik`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=94 ;
+
+--
+-- Zrzut danych tabeli `koszyk`
+--
+
+INSERT INTO `koszyk` (`idKoszyk`, `idArtykul`, `idUzytkownik`) VALUES
+(93, 1, 3);
 
 -- --------------------------------------------------------
 
@@ -110,11 +127,18 @@ INSERT INTO `rola` (`idRola`, `Nazwa`) VALUES
 CREATE TABLE IF NOT EXISTS `szczegoly_zam` (
   `idArtykul` int(11) NOT NULL,
   `idZamowienie` int(11) NOT NULL,
-  `Cena` int(11) DEFAULT NULL,
+  `Cena` float DEFAULT NULL,
   PRIMARY KEY (`idArtykul`,`idZamowienie`),
   KEY `fk_Szczegoly_zam_Artykul1` (`idArtykul`),
   KEY `fk_Szczegoly_zam_Zamowienie1` (`idZamowienie`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Zrzut danych tabeli `szczegoly_zam`
+--
+
+INSERT INTO `szczegoly_zam` (`idArtykul`, `idZamowienie`, `Cena`) VALUES
+(1, 6, 0.1);
 
 -- --------------------------------------------------------
 
@@ -153,7 +177,7 @@ CREATE TABLE IF NOT EXISTS `uzytkownik` (
 INSERT INTO `uzytkownik` (`idUzytkownik`, `Login`, `Haslo`, `Imie`, `Nazwisko`, `Email`, `idRola`) VALUES
 (1, 'admin', '21232f297a57a5a743894a0e4a801fc3', 'Adam', 'Kowalski', 'akowalski@poczta.pl', 3),
 (2, 'redaktor', 'fc732c7f3293285356b13570bf6a87fd', 'Jan', 'Nowak', 'jnowak@poczta.pl', 2),
-(3, 'czytelnik', 'cd81536c245e62f9db678b240e1b0085', 'Jerzy', 'Potocki', 'jpotocki@poczta.pl', 1),
+(3, 'czytelnik', 'cd81536c245e62f9db678b240e1b0085', 'Jerzy', 'Potocki', 'dominikkosciesza@gmail.com', 1),
 (4, 'litewska', 'bea51bc8d38b9a608b35e515fa63a0bf', 'Maria', 'Litewska', 'mlitewska@poczta.pl', 1);
 
 -- --------------------------------------------------------
@@ -164,10 +188,22 @@ INSERT INTO `uzytkownik` (`idUzytkownik`, `Login`, `Haslo`, `Imie`, `Nazwisko`, 
 
 CREATE TABLE IF NOT EXISTS `wydanie` (
   `idWydanie` int(11) NOT NULL,
-  `Cena` int(11) NOT NULL,
+  `Tytul` varchar(100) NOT NULL,
+  `data` date NOT NULL,
+  `Cena` float NOT NULL,
   `SciezkaZdjecia` varchar(100) DEFAULT NULL,
   PRIMARY KEY (`idWydanie`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Zrzut danych tabeli `wydanie`
+--
+
+INSERT INTO `wydanie` (`idWydanie`, `Tytul`, `data`, `Cena`, `SciezkaZdjecia`) VALUES
+(1, 'Wydanie 1', '2013-04-01', 13.5, '/ppz-gazeta/images/mini/item0.jpg'),
+(2, 'Wydanie 2', '2013-04-09', 56, '/ppz-gazeta/images/mini/item1.jpg'),
+(3, 'Wydanie 3', '2013-04-16', 45.45, '/ppz-gazeta/images/mini/item0.jpg'),
+(4, 'Wydanie 4', '2013-04-02', 67, '/ppz-gazeta/images/mini/item1.jpg');
 
 -- --------------------------------------------------------
 
@@ -177,11 +213,19 @@ CREATE TABLE IF NOT EXISTS `wydanie` (
 
 CREATE TABLE IF NOT EXISTS `zamowienie` (
   `idZamowienie` int(11) NOT NULL AUTO_INCREMENT,
-  `Cena` int(11) DEFAULT NULL,
+  `Cena` float DEFAULT NULL,
   `idUzytkownik` int(11) NOT NULL,
   PRIMARY KEY (`idZamowienie`),
   KEY `fk_Zamowienie_Uzytkownik1` (`idUzytkownik`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
+
+--
+-- Zrzut danych tabeli `zamowienie`
+--
+
+INSERT INTO `zamowienie` (`idZamowienie`, `Cena`, `idUzytkownik`) VALUES
+(3, 3.6, 3),
+(6, 0.1, 3);
 
 --
 -- Ograniczenia dla zrzutów tabel
