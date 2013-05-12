@@ -104,8 +104,8 @@ class Uzytkownicy
     public function pobierzListe()
     {
         $sql = "
-            SELECT u.*, g.nazwa AS grupa
-            FROM uzytkownicy u JOIN grupy g ON u.id_grupy = g.id
+            SELECT u.*, r.Nazwa AS rola
+            FROM uzytkownik u JOIN rola r ON u.idRola = r.id
             ";
 
         return $this->_conn->fetchAll($sql);
@@ -119,7 +119,7 @@ class Uzytkownicy
      */
     public function pobierz($id)
     {
-        $sql = "SELECT * FROM uzytkownicy WHERE id = '" . $this->_conn->escape($id) . "'";
+        $sql = "SELECT * FROM uzytkownik WHERE id = '" . $this->_conn->escape($id) . "'";
 
         return $this->_conn->fetchRow($sql);
     }
