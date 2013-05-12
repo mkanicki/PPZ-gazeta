@@ -119,7 +119,7 @@ class Uzytkownicy
     {
         $sql = "
             SELECT u.*, r.Nazwa AS rola
-            FROM uzytkownik u JOIN rola r ON u.idRola = r.id
+            FROM uzytkownik u JOIN rola r ON u.idRola = r.idRola
             ";
 
         return $this->_conn->fetchAll($sql);
