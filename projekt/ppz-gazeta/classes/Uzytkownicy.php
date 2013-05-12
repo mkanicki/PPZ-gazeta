@@ -95,6 +95,20 @@ class Uzytkownicy
         else
             return true;
     }
+    
+    
+    /**
+     * Sprawdza, czy uĹĽytkownik jest adminem.
+     *
+     * @return bool True, jeĹ›li jest
+     */
+    public function czyAdmin()
+    {
+        if ($this->_idRoli > 1)
+            return true;
+        else
+            return false;
+    }
 
     /**
      * Pobiera liste Uzytkownikow.
