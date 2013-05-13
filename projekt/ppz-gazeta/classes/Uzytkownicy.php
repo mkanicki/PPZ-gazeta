@@ -95,6 +95,20 @@ class Uzytkownicy
         else
             return true;
     }
+    
+    
+    /**
+     * Sprawdza, czy uĹĽytkownik jest adminem.
+     *
+     * @return bool True, jeĹ›li jest
+     */
+    public function czyAdmin()
+    {
+        if ($this->_idRoli > 1)
+            return true;
+        else
+            return false;
+    }
 
     /**
      * Pobiera liste Uzytkownikow.
@@ -104,8 +118,8 @@ class Uzytkownicy
     public function pobierzListe()
     {
         $sql = "
-            SELECT u.*, g.nazwa AS grupa
-            FROM uzytkownicy u JOIN grupy g ON u.id_grupy = g.id
+            SELECT u.*, r.Nazwa AS rola
+            FROM uzytkownik u JOIN rola r ON u.idRola = r.idRola
             ";
 
         return $this->_conn->fetchAll($sql);
@@ -119,7 +133,7 @@ class Uzytkownicy
      */
     public function pobierz($id)
     {
-        $sql = "SELECT * FROM uzytkownicy WHERE id = '" . $this->_conn->escape($id) . "'";
+        $sql = "SELECT * FROM uzytkownik WHERE id = '" . $this->_conn->escape($id) . "'";
 
         return $this->_conn->fetchRow($sql);
     }

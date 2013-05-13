@@ -34,5 +34,19 @@ class Init
 		$this->_smarty->force_compile = false;
 		$this->_smarty->debugging = false;
         }
+        
+        
+          /**
+     * Sprawdza, czy użytkownik jest adminem.
+     * Jeśli nie jest, przekierowuje go gdzies.
+     *
+     */
+        public function sprawdzAdmin()
+        {
+            $uzytkownicy = new Uzytkownicy();
+            if ($uzytkownicy->czyAdmin())
+                header("Location: index.php");
+            
+        }
 }
 ?>

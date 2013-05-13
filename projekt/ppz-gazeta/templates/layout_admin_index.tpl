@@ -1,24 +1,25 @@
 <table>
     <tr>
         <th>Lp.</th>
-        <th>Imiê</th>
+        <th>Imiï¿½</th>
         <th>Nazwisko</th>
-        <th>Nazwa u¿ytkownika</th>
+        <th>Nazwa uï¿½ytkownika</th>
         <th>Data rejestracji</th>
         <th>Rola</th>
     </tr>
-    
+
+{foreach from=$uzytkownicy item=u name=uzytkownicy}
     <tr>
-        <td>1.</td>
-        <td>Jan</td>
-        <td>Kowalski</td>
-        <td>jkowal</td>
-        <td>2013-04-02</td>
-        <td>Redaktor</td>
-        <td><a href="admin_removeuser.php">usuñ</a></td>
-        <td><a href="admin_resetpassword.php">resetuj has³o</a></td>
-        <td><a href="admin_addeditor.php">nadaj rolê redaktora</a></td>
-        <td><a href="admin_removeeditor.php">usuñ rolê redaktora</a></td>
-    </tr>
+		<td>{$smarty.foreach.uzytkownicy.iteration}</td>
+		<td>{$u.Imie}</td>
+		<td>{$u.Nazwisko}</td>
+		<td>{$u.Login}</td>
+		<td>{$u.rola}</td>
+	    <td><a href="admin_removeuser.php">usuï¿½</a></td>
+        <td><a href="admin_resetpassword.php">resetuj hasï¿½o</a></td>
+        <td><a href="admin_addeditor.php">nadaj rolï¿½ redaktora</a></td>
+        <td><a href="admin_removeeditor.php">usuï¿½ rolï¿½ redaktora</a></td>
+	</tr>
+{/foreach}
 
 </table>
