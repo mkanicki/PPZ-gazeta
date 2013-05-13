@@ -17,9 +17,9 @@
         <div id="all">
             <div id="toolbar">
                 <ul class="buttons">
-                    <li class="horizontal"><a href="admineditor_logout.php">Wyloguj</a></li>
+                    <li class="horizontal"><a href="logout.php">Wyloguj</a></li>
                     <li class="horizontal"><a href="admineditor_newspapers.php">Wydania</a></li>
-                    <li class="horizontal"><a href="admin_index.php">U¿ytkownicy</a></li>
+                    <li class="horizontal"><a href="admin_index.php">Uï¿½ytkownicy</a></li>
                     <li class="horizontal"><a href="index.php">Portal</a></li>
                 </ul>
             </div>
