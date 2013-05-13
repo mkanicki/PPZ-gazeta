@@ -44,7 +44,7 @@ class Init
         public function sprawdzAdmin()
         {
             $uzytkownicy = new Uzytkownicy();
-            if ($uzytkownicy->czyAdmin())
+            if (!$uzytkownicy->czyAdmin())
                 header("Location: index.php");
             
         }
