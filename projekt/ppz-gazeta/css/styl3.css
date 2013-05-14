@@ -1,0 +1,93 @@
+/*styl ladowany przy starcie glownej strony*/
+
+#search{
+   background-color:  #B0C4DE;
+   width: 55%;
+   height: 50px;
+   margin-left: 410px;
+}
+
+.label_newest{
+    margin-left: 280px;
+    margin-top: 65px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #191970;
+}
+
+.wishes{
+   
+    margin-left: 340px;
+    font-size: 15px;
+    color:#191970;
+}
+
+#axis{
+	width: 900px;
+        height: 900px;
+	margin: 30px auto 80px auto;
+	position: relative;
+	
+}
+
+
+.object {
+	position: absolute;
+/** This css rule will make the object 
+move smoothly and animated **/
+	-webkit-transition: all 2s ease-in-out;
+    -moz-transition: all 2s ease-in-out;
+    -o-transition: all 2s ease-in-out;
+	
+}
+/** Adjust objects position
+to the center of Axis **/
+.arrow {
+	top: -2%;
+	left: 16%;
+}
+
+/* HORIZONTALLY MOVEMENT */
+/* PREFIX 
+-webkit- is for Chrome & Safari;
+-o- is for Opera;
+-moz- is for Mozilla Firefox
+*/
+/** Moving object to the right **/
+#axis:hover .move-right{
+	transform: translate(350px,0);
+	-webkit-transform: translate(350px,0);
+	-o-transform: translate(350px,0); 
+	-moz-transform: translate(350px,0);
+}
+/** Moving object to the left **/
+#axis:hover .move-left{
+	transform: translate(-150px, 0px);
+	-webkit-transform: translate(-150px, 0px);
+	-o-transform: translate(-150px, 0px);
+	-moz-transform: translate(-150px, 0px);
+}
+
+/** DIAGONALLY MOVEMENT **/
+/** Move object diagonally (Northeast) **/
+#axis:hover .move-ne{
+	transform: translate(350px,-350px);
+	-webkit-transform: translate(350px,-350px);
+	-o-transform: translate(350px,-350px); 
+	-moz-transform: translate(350px,-350px);
+	
+}
+
+#axis:hover .scale{
+	transform: scale(2);
+	-webkit-transform: scale(2);
+	-o-transform: scale(2); 
+	-moz-transform: scale(2);
+}
+/** Multiple **/
+#axis:hover .multiple {
+	transform: translate(-200px, 0px) rotate(360deg);
+	-webkit-transform: translate(-200px, 0px) rotate(360deg);
+	-o-transform: translate(-200px, 0px) rotate(360deg);
+	-moz-transform: translate(-200px, 0px) rotate(360deg);
+}
