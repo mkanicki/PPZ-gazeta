@@ -48,7 +48,22 @@ require_once "classes/Conn.php";
                return $this->_conn->fetchAll($sql);
             }
         
-         
+         /**
+     *Pobiera z bazy wszystkie wydania
+     * laczenie tabel artykul i wydanie
+     * RIGHT JOIN, zeby wypisac tez wydania, ktore nie posiadaja artykulow
+     * 
+     * @return array() : wydania z artykulami
+     */
+     public function pokazWszystko() {
+       $sql = "SELECT w.idWydanie, a.idArtykul, 
+                w.data as 'DataWydania', a.data as 'DataArtykul', 
+                a.Cena, w.Tytul
+                    FROM artykul a RIGHT JOIN wydanie w
+                         ON w.idWydanie = a.idWydanie";
+       //var_dump($this->_conn->fetchAll($sql));
+       return $this->_conn->fetchAll($sql);
+   }
    }
 
 ?>
