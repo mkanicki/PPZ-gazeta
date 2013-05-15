@@ -76,7 +76,7 @@ INSERT INTO `koszyk` (`idKoszyk`, `idArtykul`, `idUzytkownik`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `ogloszenie` (
-  `idOgloszenie` int(11) NOT NULL,
+  `idOgloszenie` int(11) NOT NULL AUTO_INCREMENT,
   `idUzytkownik` int(11) NOT NULL,
   `Sciezka` varchar(100) NOT NULL,
   PRIMARY KEY (`idOgloszenie`),
@@ -90,7 +90,7 @@ CREATE TABLE IF NOT EXISTS `ogloszenie` (
 --
 
 CREATE TABLE IF NOT EXISTS `otagowanie` (
-  `idTag` int(11) NOT NULL,
+  `idTag` int(11) NOT NULL AUTO_INCREMENT,
   `idArtykul` int(11) NOT NULL,
   PRIMARY KEY (`idTag`,`idArtykul`),
   KEY `fk_Otagowanie_Tag1` (`idTag`),
@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `otagowanie` (
 --
 
 CREATE TABLE IF NOT EXISTS `rola` (
-  `idRola` int(11) NOT NULL,
+  `idRola` int(11) NOT NULL AUTO_INCREMENT,
   `Nazwa` varchar(45) NOT NULL,
   PRIMARY KEY (`idRola`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -126,7 +126,7 @@ INSERT INTO `rola` (`idRola`, `Nazwa`) VALUES
 
 CREATE TABLE IF NOT EXISTS `szczegoly_zam` (
   `idArtykul` int(11) NOT NULL,
-  `idZamowienie` int(11) NOT NULL,
+  `idZamowienie` int(11) NOT NULL AUTO_INCREMENT,
   `Cena` float DEFAULT NULL,
   PRIMARY KEY (`idArtykul`,`idZamowienie`),
   KEY `fk_Szczegoly_zam_Artykul1` (`idArtykul`),
@@ -147,7 +147,7 @@ INSERT INTO `szczegoly_zam` (`idArtykul`, `idZamowienie`, `Cena`) VALUES
 --
 
 CREATE TABLE IF NOT EXISTS `tag` (
-  `idTag` int(11) NOT NULL,
+  `idTag` int(11) NOT NULL AUTO_INCREMENT,
   `Nazwa` varchar(20) DEFAULT NULL,
   PRIMARY KEY (`idTag`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
@@ -187,7 +187,7 @@ INSERT INTO `uzytkownik` (`idUzytkownik`, `Login`, `Haslo`, `Imie`, `Nazwisko`, 
 --
 
 CREATE TABLE IF NOT EXISTS `wydanie` (
-  `idWydanie` int(11) NOT NULL,
+  `idWydanie` int(11) NOT NULL AUTO_INCREMENT,
   `Tytul` varchar(100) NOT NULL,
   `data` date NOT NULL,
   `Cena` float NOT NULL,
