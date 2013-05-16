@@ -16,6 +16,10 @@
         //die();
         $_POST['data']=date("Y-m-d");
         $wynik = $view->dodajArtykul($_POST);
+        if($wynik !== true) {
+            // bledy
+            $smarty->assign('bledy', $wynik);
+        }
     }
     $smarty->assign('artykuly', $view->pokazWydania());
     $smarty->assign('obiekt' , $smarty->fetch("layout_addartykul.tpl"));
