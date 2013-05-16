@@ -18,7 +18,8 @@
         <td>
 			<a href="admin_edituser.php?id={$u.idUzytkownik}">edytuj</a> |
 			<a onclick="return confirm('Czy na pewno chcesz usun�� u�ytkownika?');" href="admin_removeuser.php?id={$u.idUzytkownik}">usu�</a> |
-            <a href="admin_resetpassword.php?id={$u.idUzytkownik}">reset has�a</a>
+            <a href="admin_resetpassword.php?id={$u.idUzytkownik}">reset has�a</a> |
+            <a href="admin_changerole.php?id={$u.idUzytkownik}&rola={$u.rola}">zmień rolę</a>
 		</td>
 	</tr>
    {/foreach}
