@@ -12,7 +12,8 @@
     $view = new Wydanie();
     
     //var_dump($view->pokazWszystko());
-    $smarty->assign('wydania', $view->pokazWszystko());
+    $smarty->assign('wydania', $view->Pokaz_Wydania());
+    $smarty->assign('artykul', $view->pokazWszystko());
     $smarty->assign('obiekt' , $smarty->fetch("layout_admineditor_newspapers.tpl"));
 
     $smarty->display('layout_admin.tpl');
