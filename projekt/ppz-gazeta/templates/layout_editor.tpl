@@ -20,6 +20,8 @@
                     <li class="horizontal"><a href="logout.php">Wyloguj</a></li>
                     <li class="horizontal"><a href="admineditor_newspapers.php">Wydania</a></li>
                     <li class="horizontal"><a href="index.php">Portal</a></li>
+                    <li class="horizontal"><a href="editor_addwydanie.php">Dodaj Wydanie</a></li>
+                    <li class="horizontal"><a href="editor_addartykul.php">Dodaj Artykul</a></li>
                 </ul>
             </div>
                 
