@@ -115,5 +115,26 @@ require_once "classes/Conn.php";
     }
    
    }
+   
+   
+   /**
+    * Usuwa wydanie
+    * 
+    */
+   public function usunWydanie($id)
+    {
+        $ret = $this->_conn->delete('wydanie', 'idWydanie', $id);
+        return $ret;
+    }
+   
+   /**
+    * Usuwanie artykulow
+    * 
+    */
+       public function usunArtykul($id)
+    {
+        $ret = $this->_conn->delete('artykul', 'idArtykul', $id);
+        return $ret;
+    }
 
 ?>
