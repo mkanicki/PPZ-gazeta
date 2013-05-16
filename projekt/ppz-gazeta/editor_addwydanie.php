@@ -15,6 +15,10 @@
     if(isset($_POST['Dodaj'])){
         $_POST['data']=date("Y-m-d");
         $wynik = $view->dodajWydanie($_POST);
+        if($wynik !== true) {
+            // bledy
+            $smarty->assign('bledy', $wynik);
+        }
     }
     $smarty->assign('obiekt' , $smarty->fetch("layout_addwydanie.tpl"));
     $smarty->display('layout_editor.tpl');
