@@ -166,6 +166,7 @@ CREATE TABLE IF NOT EXISTS `uzytkownik` (
   `Nazwisko` varchar(45) DEFAULT NULL,
   `Email` varchar(45) NOT NULL,
   `idRola` int(11) NOT NULL,
+  `usuniety` int(11) DEFAULT 0,
   PRIMARY KEY (`idUzytkownik`),
   KEY `fk_Uzytkownik_Rola1` (`idRola`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
