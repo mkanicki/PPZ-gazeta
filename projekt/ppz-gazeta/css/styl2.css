@@ -35,6 +35,9 @@ table td:first-child {
 table.full {
 	width: 100%;
 }
+table td#td_input{
+        width: 200px;
+}
 
 a {
 	text-decoration: none;
