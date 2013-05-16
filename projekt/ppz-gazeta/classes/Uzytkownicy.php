@@ -85,9 +85,9 @@ class Uzytkownicy
     }
      
      /**
-     * Sprawdza, czy u¿ytkownik jest adminem.
+     * Sprawdza, czy uï¿½ytkownik jest adminem.
      *
-     * @return bool True, jeœli jest
+     * @return bool True, jeï¿½li jest
      */
     public function czyAdmin()
     {
@@ -226,4 +226,26 @@ class Uzytkownicy
         }
 		return $ret;			
 	}
+	
+	/**
+     * Pobiera wszystkie role
+     * 
+     */
+    public function pobierzRole()
+    {
+        $sql = "SELECT * FROM rola";
+        
+
+        return $this->_conn->fetchAll($sql);
+    }
+    
+    /**
+     * Edytuje rolÄ™ wybranego uÅ¼ytkownika
+     * @param type $id
+     * @param type $idRola
+     */
+    public function edycjaRoli($id, $idRola) {
+        
+        return $this->_conn->update('uzytkownik', array('idRola' => $idRola), "idUzytkownik = $id");
+    }
 }
