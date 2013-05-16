@@ -1,12 +1,17 @@
 <?php
     require_once 'classes/Init.php';
+    require_once 'classes/Uzytkownicy.php';
     
     $init = new Init();
-    $smarty = $init->getSmarty();
+    $init->sprawdzAdmin(); // sprawdza, czy admin
     
-    $smarty->assign('obiekt' , $smarty->fetch("layout_admineditor_newspapers.tpl"));
+    $smarty = $init->getSmarty();
+    $uzytkownicy = new Uzytkownicy();
+    
+    $smarty->assign('uzytkownicy', $uzytkownicy->pobierzListe());
+    $smarty->assign('obiekt' , $smarty->fetch("layout_admin_index.tpl"));
 
-    $smarty->display('layout_editor.tpl');
+    $smarty->display('layout_admin.tpl');
 ?>
 
 
