@@ -64,6 +64,59 @@ require_once "classes/Conn.php";
        //var_dump($this->_conn->fetchAll($sql));
        return $this->_conn->fetchAll($sql);
    }
+   
+   /**
+     * Dodaje do bazy nowe wydanie
+     */
+   public function dodajWydanie($dane)
+    {
+        $bledy = array();
+
+        if (empty($dane['Tytul']))
+            $bledy['Tytul'] = 'puste';
+        if (empty($dane['Cena']))
+            $bledy['Cena'] = 'puste';  
+
+        if (count($bledy) == 0) {
+            unset($dane['Dodaj']);
+            return $this->_conn->insert('Wydanie', $dane);
+        } else {
+            return $bledy;
+        }
+    }
+    /**
+     * Dodaje do bazy nowy artykul
+     */
+    public function dodajArtykul($dane)
+    {
+        $bledy = array();
+
+        if (empty($dane['Tytul']))
+            $bledy['Tytul'] = 'puste';
+        if (empty($dane['Cena']))
+            $bledy['Cena'] = 'puste';  
+        if (empty($dane['idWydanie']))
+            $bledy['idWydanie'] = 'puste'; 
+
+        if (count($bledy) == 0) {
+            unset($dane['Dodaj']);
+            return $this->_conn->insert('Artykul', $dane);
+        } else {
+            return $bledy;
+        }
+    }
+    
+     /**
+     *Pobiera z bazy idWydania i Tytul 
+     * do wyboru tytułu przy dodawaniu
+     * @return array() : Informacje o idWydan i Tytule
+     */
+    public function pokazWydania()
+    {
+        $sql = " SELECT idWydanie, Tytul FROM wydanie";
+        return $this->_conn->fetchAll($sql);
+    }
+   
    }
 
 ?>
