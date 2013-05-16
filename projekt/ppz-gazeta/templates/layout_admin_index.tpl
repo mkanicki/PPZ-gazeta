@@ -1,9 +1,9 @@
 <table>
     <tr>
         <th>Lp.</th>
-        <th>Imi�</th>
+        <th>Imie</th>
         <th>Nazwisko</th>
-        <th>Nazwa u�ytkownika</th>
+        <th>Nazwa uzytkownika</th>
         <th>Rola</th>
     </tr>
     
@@ -15,13 +15,16 @@
 		<td>{$u.Login}</td>
 		<td>{$u.rola}</td>
 		<td></td>
-        <td>
-			<a href="admin_edituser.php?id={$u.idUzytkownik}">edytuj</a> |
-			<a onclick="return confirm('Czy na pewno chcesz usun�� u�ytkownika?');" href="admin_removeuser.php?id={$u.idUzytkownik}">usu�</a> |
-            <a href="admin_resetpassword.php?id={$u.idUzytkownik}">reset has�a</a> |
-            <a href="admin_changerole.php?id={$u.idUzytkownik}&rola={$u.rola}">zmień rolę</a>
+        {if $u.idUzytkownik != $iduzytkownika}	
+        	<td>
+		<a href="admin_edituser.php?id={$u.idUzytkownik}">edytuj</a> |
+		<a onclick="return confirm('Czy na pewno chcesz usunac uzytkownika?');" href="admin_removeuser.php?id={$u.idUzytkownik}">usun</a> |
+            	<a href="admin_resetpassword.php?id={$u.idUzytkownik}">reset hasla</a> |
+            	<a href="admin_changerole.php?id={$u.idUzytkownik}&rola={$u.rola}">zmien role</a>
 		</td>
+	{/if}
 	</tr>
+	
    {/foreach}
 
 </table>
